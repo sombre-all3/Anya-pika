@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918811074852']
-global.OwnerNumber = ['918811074852']
-global.ownertag = ['918811074852']
+global.Owner = ['2250504160076']
+global.OwnerNumber = ['2250504160076']
+global.ownertag = ['2250504160076']
 global.BotName = "Anya❤️"
-global.packname = "Anya bot"
-global.author = "By: Pika❤️"
-global.OwnerName = "3.69_pika"
+global.packname = "🥀⃞⃕𝙎𝙊𝙈𝘽𝙍𝙀༆𝘿𝘼𝙀𝙈𝙊𝙉⟫❦⃞᭄*"
+global.author = "."
+global.OwnerName = "🥀⃞⃕𝙎𝙊𝙈𝘽𝙍𝙀༆𝘿𝘼𝙀𝙈𝙊𝙉⟫❦⃞᭄*"
 global.BotSourceCode = "https://github.com/Pika4O4/Anya-pika"
 global.SupportGroupLink = "https://chat.whatsapp.com/H6CUtq40oRDKIofIEbf1qEl"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['.'] 
 
 
 global.location = "Assam, India"
